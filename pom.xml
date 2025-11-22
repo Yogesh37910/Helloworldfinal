@@ -9,7 +9,6 @@ p<project xmlns="http://maven.apache.org/POM/4.0.0"
     <artifactId>html-webapp</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
-
     <name>HTML WebApp</name>
 
     <build>
