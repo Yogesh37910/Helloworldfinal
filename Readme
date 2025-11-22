@@ -1,0 +1,11 @@
+# Jenkins Deployment App
+
+This is a simple static HTML application deployed using Jenkins.
+
+## Run locally
+Open `index.html` in your browser.
+
+## Deployment
+- **GitHub Pages**: Enable Pages in repo settings.
+- **Docker**: Build and run using the provided Dockerfile.
+- **Jenkins**: Use the Jenkinsfile for CI/CD automation.
